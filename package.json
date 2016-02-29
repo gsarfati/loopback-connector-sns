@@ -1,0 +1,32 @@
+{
+  "name": "loopback-connector-sns",
+  "version": "0.0.3",
+  "description": "LoopBack connector for SNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsarfati/loopback-connector-sns.git"
+  },
+  "keywords": [
+    "loopback",
+    "sns",
+    "connector",
+    "framework",
+    "mobile",
+    "push",
+    "notification"
+  ],
+  "author": "gsarfati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsarfati/loopback-connector-sns/issues"
+  },
+  "homepage": "https://github.com/gsarfati/loopback-connector-sns#readme",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "aws-sdk": "^2.2.39"
+  }
+}
