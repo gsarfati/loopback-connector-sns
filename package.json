@@ -20,7 +20,7 @@
     "notification"
   ],
   "author": "gsarfati",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gsarfati/loopback-connector-sns/issues"
   },
